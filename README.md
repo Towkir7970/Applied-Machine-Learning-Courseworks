@@ -5,8 +5,15 @@ Welcome to the repository for the "Applied Machine Learning" course conducted in
 ## Table of Contents
 - [Course Overview](#course-overview)
 - [Assignments](#assignments)
-  - [Assignment 1: Python Warmup](#Assignment 1: Python Warmup)
-  - [Assignment 2: Title](#assignment-2-title)
+  - Assignment 1: Python Warmup
+  - Assignment 2: Positioning Data
+  - Assignment 3: Feature Analysis
+  - Assignment 4: Subspace Projections
+  - Assignment 5: Clustering
+  - Assignment 6: Classification
+  - Assignment 7: Ensemble_classification
+  - Assignment 8: Moisture
+  - Assignment 9: Neural Networks
 - [Final Project](#projects)
 - [Resources](#resources)
 - [Contributors](#contributors)
@@ -60,7 +67,7 @@ This assignment introduces supervised learning and classification techniques.
 **Files:**
 - `Weekly Exercises/Exercise 6/Classification.ipynb`: Source code for the assignment.
 
-### Assignment 7: Ensemble_classification
+### Assignment 7: Ensemble Classification
 
 This assignment provides advanced idea of classification using various ensemble methods.
 

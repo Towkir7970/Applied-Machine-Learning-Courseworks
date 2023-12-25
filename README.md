@@ -85,10 +85,7 @@ This assignment introduces neural networks.
 
 ### Project: Water Quality Detection
 
-In this project, we used machine
-learning techniques to develop an autonomous system that can determine, based on a variety of water parameters, whether or not a given supply of water is potable. After thorough
-processing and implementation, we were able to achieve satisfactory performance from our
-applied machine learning algorithms. Dataset Link can be found [here](https://www.kaggle.com/datasets/adityakadiwal/water-potability).
+In this project, we used machine learning techniques to develop an autonomous system that can determine, based on a variety of water parameters, whether or not a given supply of water is potable. After thorough processing and implementation, we were able to achieve satisfactory performance from our applied machine learning algorithms. Dataset Link can be found [here](https://www.kaggle.com/datasets/adityakadiwal/water-potability).
 
 **Files:**
 - `Projects/AML_Water_Quality.pdf`: Project report containing details about methodology, results, and analysis.

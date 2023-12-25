@@ -5,7 +5,7 @@ Welcome to the repository for the "Applied Machine Learning" course conducted in
 ## Table of Contents
 - [Course Overview](#course-overview)
 - [Assignments](#assignments)
-  - [Assignment 1: Title](#assignment-1-title)
+  - [Assignment 1: Python Warmup](#Assignment 1: Python Warmup)
   - [Assignment 2: Title](#assignment-2-title)
 - [Final Project](#projects)
 - [Resources](#resources)
